@@ -1,4 +1,4 @@
-**Email me**: devnetsec.u1ve7@silomails.com
+**Email me**: devnetsec@pm.me
 
 <!---
 devnetsec/devnetsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
